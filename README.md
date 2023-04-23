@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+!\[my badge\](https://img.shields.io/badge/Javascript-9-success)
 <!--
 **m0bar3z/m0bar3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
