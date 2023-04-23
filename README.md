@@ -23,9 +23,9 @@
   <a>![Webpack](https://img.shields.io/badge/Webpack-2.5/5-yellow)</a>
   <a>![Linux](https://img.shields.io/badge/Linux-2.5/5-yellow)</a>
   <a>![Nestjs](https://img.shields.io/badge/Nest.js-2.5/5-yellow)</a>
-  <a>![Vuejs](https://img.shields.io/badge/Vue.js-2.5/5-yellow)</a>
   <a>![Mongodb](https://img.shields.io/badge/MongoDB-2.5/5-yellow)</a>
   <a>![SQL](https://img.shields.io/badge/SQL-2/5-yellow)</a>
+  <a>![Vuejs](https://img.shields.io/badge/Vue.js-2/5-yellow)</a>
   
 </div>
 
