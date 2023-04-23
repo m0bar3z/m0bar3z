@@ -16,6 +16,8 @@
 
   <a>![Express.js](https://img.shields.io/badge/Express.js-3.5/5-yellow)</a>
   <a>![Bootstrap](https://img.shields.io/badge/Bootstrap-3.5/5-yellow)</a>
+  <a>![PWA](https://img.shields.io/badge/PWA-3/5-yellow)</a>
+  <a>![Mochajs](https://img.shields.io/badge/Mocha.js-3/5-yellow)</a>
   <a>![Docker](https://img.shields.io/badge/Docker-3/5-yellow)</a>
   <a>![Webpack](https://img.shields.io/badge/Webpack-2.5/5-yellow)</a>
   <a>![Linux](https://img.shields.io/badge/Linux-2.5/5-yellow)</a>
