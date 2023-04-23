@@ -8,6 +8,7 @@
   <a>![Javascript](https://img.shields.io/badge/Javascript-4/5-success)</a>
   <a>![Typescript](https://img.shields.io/badge/Typescript-4/5-success)</a>
   <a>![Nextjs](https://img.shields.io/badge/Next.js-4/5-success)</a>
+  <a>![TailwindCSS](https://img.shields.io/badge/Tailwind CSS-4/5-success)</a>
   
 </div>
 
