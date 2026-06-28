@@ -9,7 +9,7 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 * 🟦 TypeScript enthusiast
 * 🛠️ Building SaaS products
 * ✍️ Technical writer on Medium & LinkedIn
-* 📚 Always learning Computer Science, System Design and Web technologies
+* 📚 Always learning Computer Science, System Design, and Web technologies
 
 ---
 
@@ -19,9 +19,7 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-06B6D4?logo=tailwindcss)
-![Redux Toolkit](https://img.shields.io/badge/Redux-Advanced-764ABC?logo=redux)
-![Material UI](https://img.shields.io/badge/MUI-Advanced-007FFF?logo=mui)
+![UI Development](https://img.shields.io/badge/UI_Development-Advanced-2563EB)
 
 ---
 
