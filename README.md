@@ -1,37 +1,71 @@
+# Hi, I'm Ali 👋
 
-<div align="center">
+Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable web applications.
 
-  <a>![Reactjs](https://img.shields.io/badge/React.js-4.5/5-success)</a>
-  <a>![Nextjs](https://img.shields.io/badge/Next.js-4.5/5-success)</a>
-  <a>![Javascript](https://img.shields.io/badge/Javascript-4.5/5-success)</a>
-  <a>![Typescript](https://img.shields.io/badge/Typescript-4.5/5-success)</a>
-  <a>![Materialui](https://img.shields.io/badge/MUI-4.5/5-success)</a>
-  <a>![TailwindCSS](https://img.shields.io/badge/Tailwind-4.5/5-success)</a>
-  <a>![nodejs](https://img.shields.io/badge/Node.js-4/5-success)</a>
-  <a>![Redux](https://img.shields.io/badge/Redux-4/5-success)</a>
-  
-</div>
+## 🚀 About Me
 
+- 💻 5+ years building web applications
+- ⚛️ React & Next.js specialist
+- 🟦 TypeScript enthusiast
+- 🛠️ Building SaaS products
+- ✍️ Technical writer on Medium & LinkedIn
+- 📚 Always learning Computer Science, System Design and Web technologies
 
-<div align="center">
+---
 
-  <a>![Express.js](https://img.shields.io/badge/Express.js-3.5/5-yellow)</a>
-  <a>![Bootstrap](https://img.shields.io/badge/Bootstrap-3.5/5-yellow)</a>
-  <a>![PWA](https://img.shields.io/badge/PWA-3.5/5-yellow)</a>
-  <a>![Webpack](https://img.shields.io/badge/Webpack-3.5/5-yellow)</a>
-  <a>![Mochajs](https://img.shields.io/badge/Mocha.js-3/5-yellow)</a>
-  <a>![Docker](https://img.shields.io/badge/Docker-3/5-yellow)</a>
-  <a>![Linux](https://img.shields.io/badge/Linux-2.5/5-yellow)</a>
-  <a>![Nestjs](https://img.shields.io/badge/Nest.js-2.5/5-yellow)</a>
-  <a>![Mongodb](https://img.shields.io/badge/MongoDB-2.5/5-yellow)</a>
-  <a>![SQL](https://img.shields.io/badge/SQL-2/5-yellow)</a>
-  <a>![Vuejs](https://img.shields.io/badge/Vue.js-2/5-yellow)</a>
-  
-</div>
+## Frontend
 
+![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-06B6D4?logo=tailwindcss)
+![Redux Toolkit](https://img.shields.io/badge/Redux-Advanced-764ABC?logo=redux)
+![Material UI](https://img.shields.io/badge/MUI-Advanced-007FFF?logo=mui)
 
-<div align="center">
+---
 
-  <a>![Solidity](https://img.shields.io/badge/Solidity-1.5/5-red)</a>
-  
-</div>
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-Advanced-black?logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-Intermediate-E0234E?logo=nestjs)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?logo=springboot)
+
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1)
+
+---
+
+## Other Technologies
+
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux)
+![Webpack](https://img.shields.io/badge/Webpack-Intermediate-8DD6F9?logo=webpack)
+![PWA](https://img.shields.io/badge/PWA-Intermediate-5A0FC8)
+![Three.js](https://img.shields.io/badge/Three.js-Learning-black?logo=threedotjs)
+![WebGL](https://img.shields.io/badge/WebGL-Learning-990000)
+![Blockchain](https://img.shields.io/badge/Blockchain-Learning-121D33)
+![Solidity](https://img.shields.io/badge/Solidity-Learning-363636?logo=solidity)
+
+---
+
+## Currently Interested In
+
+- AI integrations
+- Developer Tools
+- SaaS
+- Web Performance
+- System Design
+- Three.js & WebGL
+- Linux
+- Blockchain
+
+---
+
+> "Always building. Always learning."
