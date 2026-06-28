@@ -4,12 +4,12 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 
 ## 🚀 About Me
 
-* 💻 5+ years building web applications
-* ⚛️ React & Next.js specialist
-* 🟦 TypeScript enthusiast
-* 🛠️ Building SaaS products
-* ✍️ Technical writer on Medium & LinkedIn
-* 📚 Always learning Computer Science, System Design, and Web technologies
+- 💻 5+ years building web applications
+- ⚛️ React & Next.js specialist
+- 🟦 TypeScript enthusiast
+- 🛠️ Building SaaS products
+- ✍️ Technical writer on Medium & LinkedIn
+- 📚 Always learning Computer Science, System Design, and Web technologies
 
 ---
 
@@ -19,7 +19,10 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript)
-![UI Development](https://img.shields.io/badge/UI_Development-Advanced-2563EB)
+
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-Advanced-2563EB)
+![Design Systems](https://img.shields.io/badge/Design_Systems-Advanced-1E40AF)
+![UI Architecture](https://img.shields.io/badge/UI_Architecture-Advanced-0EA5E9)
 
 ---
 
@@ -45,15 +48,15 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 
 ## Currently Interested In
 
-* AI integrations
-* Developer Tools
-* SaaS
-* Web Performance
-* System Design
-* Three.js & WebGL
-* Linux
-* Networking & Security
-* Blockchain
+- AI integrations
+- Developer Tools
+- SaaS
+- Web Performance
+- System Design
+- Three.js & WebGL
+- Linux
+- Networking & Security
+- Blockchain
 
 ---
 
