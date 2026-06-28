@@ -4,12 +4,12 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 
 ## 🚀 About Me
 
-- 💻 5+ years building web applications
-- ⚛️ React & Next.js specialist
-- 🟦 TypeScript enthusiast
-- 🛠️ Building SaaS products
-- ✍️ Technical writer on Medium & LinkedIn
-- 📚 Always learning Computer Science, System Design and Web technologies
+* 💻 5+ years building web applications
+* ⚛️ React & Next.js specialist
+* 🟦 TypeScript enthusiast
+* 🛠️ Building SaaS products
+* ✍️ Technical writer on Medium & LinkedIn
+* 📚 Always learning Computer Science, System Design and Web technologies
 
 ---
 
@@ -30,15 +30,6 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-Advanced-black?logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-Intermediate-E0234E?logo=nestjs)
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?logo=springboot)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1)
 
 ---
 
@@ -46,7 +37,6 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux)
-![Webpack](https://img.shields.io/badge/Webpack-Intermediate-8DD6F9?logo=webpack)
 ![PWA](https://img.shields.io/badge/PWA-Intermediate-5A0FC8)
 ![Three.js](https://img.shields.io/badge/Three.js-Learning-black?logo=threedotjs)
 ![WebGL](https://img.shields.io/badge/WebGL-Learning-990000)
@@ -57,14 +47,15 @@ Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable we
 
 ## Currently Interested In
 
-- AI integrations
-- Developer Tools
-- SaaS
-- Web Performance
-- System Design
-- Three.js & WebGL
-- Linux
-- Blockchain
+* AI integrations
+* Developer Tools
+* SaaS
+* Web Performance
+* System Design
+* Three.js & WebGL
+* Linux
+* Networking & Security
+* Blockchain
 
 ---
 
