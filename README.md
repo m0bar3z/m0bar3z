@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋
+# Hi, I'm Carl 👋
 
 Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable web applications.
 
