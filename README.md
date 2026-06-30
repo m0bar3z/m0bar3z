@@ -2,7 +2,7 @@
 
 Full-Stack JavaScript/TypeScript Developer focused on building fast, scalable web applications.
 
-## 🚀 About Me
+## About Me
 
 - 💻 5+ years building web applications
 - ⚛️ React & Next.js specialist
